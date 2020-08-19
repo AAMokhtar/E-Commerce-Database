@@ -1,0 +1,3 @@
+1 - create a new database called "Team23".
+2 - run the tables, procedures, insertionStatements sql files in order.
+3 - open the project's sln file(Team23.sln), and run the login or registration page.
